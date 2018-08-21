@@ -10,7 +10,7 @@ Implementaion for social login on android through facebook, twitter and google
 
 
 ```
-Copyright 2017 Supercharge
+Copyright 2018 Supercharge
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
