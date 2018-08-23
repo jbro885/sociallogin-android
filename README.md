@@ -2,13 +2,7 @@
 Implementaion for social login on android through facebook, twitter and google
 ![demo](https://i.imgsafe.org/bf/bffa688c7c.png)
 
-# License
-
-`Social Login` is opensource, contribution and feedback are welcome!
-
-[Apache Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
-
-Setup
+# Setup
 
 **Enable Google Login**
 ```
@@ -63,6 +57,12 @@ compile('com.twitter.sdk.android:twitter:1.13.1@aar')
 You need to approve your application for email access at:
 
    https://support.twitter.com/forms/platform
+
+# License
+
+`Social Login` is opensource, contribution and feedback are welcome!
+
+[Apache Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
 
 ```
 Copyright 2018 Supercharge
