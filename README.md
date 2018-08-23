@@ -28,7 +28,7 @@ Setup
 4. Set this Client id in helper class :
 
     ```
-    GoogleHelper.setClient(<YOUR CLIENT ID>)
+    GoogleHelper.setClient(<CLIENT ID>)
     ```
 
 Note: If you want google+ information follows these steps:
